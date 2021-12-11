@@ -1,0 +1,18 @@
+{
+    "RED": {
+        "position": "[1, 1]",
+        "direction": "[down]"
+    },
+    "CLIFFORD": {
+        "position": "[1, 8]",
+        "direction": "[down]"
+    },
+    "MARTHA": {
+        "position": "[3, 2]",
+        "direction": "[forwards]"
+    },
+    "CAT": {
+        "position": "[2, 4]",
+        "direction": "[forwards]"
+    }
+}
